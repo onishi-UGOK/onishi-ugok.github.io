@@ -1,0 +1,192 @@
+@charset "UTF-8";
+
+/*共通*/
+.topnav{display: flex;
+justify-content: space-between;}
+p {
+    margin: 0 30px 0 30px;
+}
+img {
+    width: 75%;
+}
+
+body {
+    max-width: 400px;
+}
+
+h1,
+h3,
+h4,
+h5 {
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+nav {
+    color: #2b2b2b;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+nav {
+    font-size: 2em;
+}
+
+h1,
+nav {
+    font-family: Century Gothic;
+    font-weight: lighter;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 30px;
+    border-bottom: 4px dotted green;
+    margin: 100px 20% 40px 20%;
+
+
+}
+
+h4 {
+    font-size: 20px;
+    margin-top: 70px;
+    color: green;
+}
+
+h5 {
+    font-size: 20px;
+    font-family: Century Gothic;
+    font-weight: lighter;
+}
+
+.threelines {
+    width: 10%;
+  text-align: right;
+
+}
+
+
+
+
+/*topの装飾*/
+
+.top2 {
+ margin-top: 100px;
+    width: 75%;
+}
+
+.top {
+    width: 80%;
+    margin: 0 0 20% 20%;
+}
+
+.contents {
+
+    margin: 100px 50px 10px 50px;
+    text-align: center;
+
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+h5 {
+    margin-top: 10px;
+}
+
+.progname {
+    text-align: center;
+padding-left: 35%;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.separate {
+    text-align: center;
+}
+
+
+.more {
+    text-align: end;
+    margin-right: 50px;
+}
+
+.top {
+    text-align: center;
+}
+
+
+
+
+/*profileの装飾*/
+h2 {
+    color: white;
+    border-bottom: solid 3px #dadada;
+    /*下に灰色線*/
+    background: #dcc1a3;
+    padding-left: 30px;
+    margin-bottom: 30px;
+    margin-right: 25%;
+
+    list-style: none;
+}
+.floatme{display: flex;
+justify-content: center;}
+
+.onishi {
+    width: 40%;
+    margin-left: 5%;
+}
+
+ul {
+    margin: 0 10%;
+}
+
+tr {
+    vertical-align: baseline;
+}
+
+table {
+    margin: 0 20px 0 20px;
+}
+
+/*galleryの装飾*/
+.galleryimg {
+    text-align: center;
+}
+
+div.img {
+    text-align: center
+}
+ul{
+    color: olivedrab;}
+span{color: #2b2b2b;}
+    
+}
+li{text-align: left;}
+p{text-align: left;
+padding-bottom: 20px;}
+
+h6{font-size: 20px;
+background-color:olivedrab;
+    color: white;
+text-align: center;
+margin: 30%;
+    padding: 10px;
+    border-radius: 50px;
+    
+ font-family: Century Gothic;}
